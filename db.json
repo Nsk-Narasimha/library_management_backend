@@ -26,45 +26,49 @@
   ],
   "books": [
     {
-      "title": "The Alchemist",
-      "author": "Paulo Coelho",
-      "category": "Fiction",
-      "isbn": "9780061122415",
-      "publicationYear": 1988,
-      "pages": 208,
-      "rating": 4.7,
-      "language": "English",
-      "availableCopies": 7,
-      "totalCopies": 10,
-      "coverImage": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?auto=format&fit=crop&w=800&q=80",
-      "description": "A young shepherd follows his dreams and discovers his purpose.",
-      "tags": [
-        "Adventure",
-        "Motivation"
-      ],
-      "id": "1",
-      "pdfUrl": ""
-    },
-    {
-      "id": "2",
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "category": "Self Help",
-      "isbn": "9780735211292",
-      "publicationYear": 2018,
-      "pages": 320,
-      "rating": 4.8,
-      "language": "English",
-      "availableCopies": 10,
-      "totalCopies": 15,
-      "coverImage": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=800&q=80",
-      "description": "A practical guide to building good habits and breaking bad ones.",
-      "tags": [
-        "Habits",
-        "Productivity"
-      ],
-      "pdfUrl": ""
-    },
+  "id": "1",
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "category": "Fiction",
+  "isbn": "9780142437247",
+  "publicationYear": 1851,
+  "pages": 720,
+  "rating": 4.1,
+  "language": "English",
+  "availableCopies": 8,
+  "totalCopies": 10,
+  "coverImage": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781681778488/moby-dick-9781681778488_hr.jpg",
+  "pdfUrl": "https://drive.google.com/file/d/1-DJS046yb5w8CxJpRfAJE1Ym8JO54fkK/view?usp=sharing",
+  "description": "Moby-Dick is a classic American novel about Ishmael's journey aboard the whaling ship Pequod and Captain Ahab's obsessive pursuit of the great white whale.",
+  "tags": [
+    "Classic",
+    "Adventure",
+    "Sea",
+    "American Literature"
+  ]
+},
+{
+  "id": "2",
+  "title": "Little Women",
+  "author": "Louisa May Alcott",
+  "category": "Fiction",
+  "isbn": "9780147514011",
+  "publicationYear": 1868,
+  "pages": 544,
+  "rating": 4.4,
+  "language": "English",
+  "availableCopies": 7,
+  "totalCopies": 10,
+  "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638563960i/59748647.jpg",
+  "pdfUrl": "https://drive.google.com/file/d/1bvy-4KbQyhyJW3xs-ckuLzdgBY8aqBq_/view?usp=sharing",
+  "description": "Little Women follows the four March sisters—Meg, Jo, Beth, and Amy—as they grow up, face challenges, and discover love, family, ambition, and independence.",
+  "tags": [
+    "Classic",
+    "Family",
+    "Coming of Age",
+    "American Literature"
+  ]
+},
     {
       "id": "3",
       "title": "Clean Code",
@@ -123,7 +127,7 @@
         "Python",
         "Programming"
       ],
-      "pdfUrl": ""
+      "pdfUrl": "https://drive.google.com/file/d/1AyPrn2kYuI3L-Pl4U-qfXANsdEdOYiiX/view?usp=sharing"
     }
   ]
   
